@@ -1,3 +1,7 @@
+# Geeetech i3 pro W Marlin 2.0.x firmware
+
+This fork is intended to keep my 3D printer firmware updated and help anybody with the same Geeetech i3 pro W (and probably any with the GT2560A+ controller).
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
